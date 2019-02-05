@@ -1,5 +1,5 @@
 # RECOMMENDATION CONTENT BASED IMDB
 
-python movie.py The Avengers
+python main.py
 
-Returns movies similar to the avengers.
+Enter the name of the movie and return all recommended movies.
